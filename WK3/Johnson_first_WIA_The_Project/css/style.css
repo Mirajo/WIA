@@ -1,0 +1,60 @@
+
+.header{
+	margin: 0px;
+	
+}
+nav ul{
+margin: 0px;
+padding: 0px;
+
+	
+}
+nav ul li {
+	display: inline;
+	
+}
+nav a {
+margin-bottom: 10px;
+padding: 15px 0;
+text-align:center;
+text-decoration: none;
+color: white;
+font-weight:bold;
+background: #F8D1DB;
+	
+}
+nav a:hover,
+nav a:visited{
+	color: #CE5FA4;
+}
+body,td,th {
+	font-family: Verdana, Geneva, sans-serif;
+	color: #000;
+}
+body {
+	background-color: rgba(255, 255, 255, 0.6);
+	background-repeat: repeat;
+	margin: 0px;
+	
+}
+#fotorama {
+	height: 350px;
+	min-width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	
+}
+.video{
+background-color: #FFF;
+}
+.article{
+background-color: rgba(169, 84, 127, 0.6);	
+}
+.top-row{
+	
+}
+#footer{
+	text-align:center;
+}
